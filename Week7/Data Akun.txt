@@ -1,0 +1,22 @@
+      Data Akun
+
+
+Akun 1
+Account Number    : 12345
+PIN               : 54321
+Available Balance : $1,000.0
+Total Balance     : $1,200.0
+
+
+Akun 2
+Account Number    : 12321
+PIN               : 32123
+Available Balance : $500.0
+Total Balance     : $600.0
+
+
+Akun 3
+Account Number    : 26462
+PIN               : 21212
+Available Balance : $1,500.0
+Total Balance     : $1,800.0
